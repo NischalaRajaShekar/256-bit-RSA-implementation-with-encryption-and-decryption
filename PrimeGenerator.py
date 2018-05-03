@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-##  PrimeGenerator.py
-##  Author: Avi Kak
-##  Date: February 18, 2011
-
 import random
 
 class PrimeGenerator( object ):   
